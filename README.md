@@ -2,4 +2,4 @@
 
 Image - 
 
-<img src="Images/screenshot_1.png" height="500">
+<img src="Screenshot 2022-06-13 at 1.50.27 PM.png" height="500">
